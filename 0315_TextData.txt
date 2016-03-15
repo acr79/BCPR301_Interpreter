@@ -1,0 +1,76 @@
+A000 M 44 56 Obesity 500
+A001 F 36 92 Normal 700
+ M 0 0 Normal 0
+ F 38 0 Normal 0
+A004 F 21 0 Normal 0
+A005 F 16 0 Normal 0
+A006 F 72 0 Normal 0
+A007 F 99 0 Normal 0
+A008 F 89 0 Normal 0
+A009 F 0 0 Normal 0
+A010 m 0 0 Normal 0
+
+A015 m 0 0 Normal 0
+A016 F 0 0 Normal 0
+A017 M 0 0 Nor 0
+B500 F 0 0 Normal 0
+
+B506 F 0 0 Normal 0
+B5mal 0
+C569 F 0 0 Normal 0
+
+C572 F 0 0 Normal 0
+C573 M 0 0 Normal 0
+C574 F 0 0 Normal 0
+
+C579 F 49 0 Normal 0
+C580 F 0 0 Normal 0
+C581 F 0 0 Normal 0
+C582 M 68 0 Normal 0
+C583 F 0 0 Normal 0
+C584 m 23 Normal 0
+C585 F 0 0 Normal 0
+C586 F 0 0 Normal 0
+C587rmal 0
+F253 F 0 0 Normal 0
+F254 F 0 0 Normal 0
+
+F263 m 23 0 Normal 0
+F264 F 0 0 Normal 0
+F265 F 0 0 Normal 0
+F26
+G149 F 0 0 Normal 0
+
+
+G160 m 23 0 Normal 0
+G161 F 0 0 Normal 0
+G162 F 0 0 Normal 0
+
+
+G187 F 0 0 Normal 0
+
+G191 m 40 0 Normal 0
+G192 F 0 0 Normal 0
+G193 F 0 0 Normal 0
+
+G214 F 0 0 Normal 0
+
+G217 m 21 Normal 0
+G218 F 0 0 Normal 0
+G219 F 0 0 Normal 0
+
+
+G235 m 80 0 Normal 0
+G236 F 0 0 Normal 0
+
+G242 F 17 0 Normal 0
+G243 F 0 0 Normal 0
+
+G251 m 32 0 Normal 0
+G252 F 0 0 Normal 0
+G253 F 0 0 Normal 0
+G254 F 0 0 Normal 0
+
+G283 F 0 0 Normal 0
+P435 F 14 13 Overweight 30
+Q356 F 0 0 Normal 0
